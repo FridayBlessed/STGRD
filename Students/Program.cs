@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Pastel;
+using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 
 namespace StudentGradeManagement
@@ -8,7 +10,7 @@ namespace StudentGradeManagement
     class Student
     {
         public string Name { get; set; }
-        pub
+        
         public string StudentID { get; set; }
         public Dictionary<string, double> Grades { get; set; }
 
@@ -30,7 +32,7 @@ namespace StudentGradeManagement
             bool running = true;
  
             Console.WriteLine("========================================");
-            Console.WriteLine("  STUDENT GRADE MANAGEMENT SYSTEM");
+            Console.WriteLine("  STUDENT GRADE MANAGEMENT SYSTEM".Pastel(Color.OrangeRed));
             Console.WriteLine("========================================\n");
 
             // Main program loop - REQUIRED LOOP
@@ -70,13 +72,13 @@ namespace StudentGradeManagement
         static void DisplayMenu()
         {
             Console.WriteLine("========================================");
-            Console.WriteLine("MENU OPTIONS:");
+            Console.WriteLine("MENU OPTIONS:".Pastel(Color.CornflowerBlue));
             Console.WriteLine("========================================");
-            Console.WriteLine("1. Add New Student");
-            Console.WriteLine("2. Add Grade to Student");
-            Console.WriteLine("3. Calculate Student Average");
-            Console.WriteLine("4. Display All Students");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("1. Add New Student".Pastel(Color.LightGreen));
+            Console.WriteLine("2. Add Grade to Student".Pastel(Color.DarkGreen));
+            Console.WriteLine("3. Calculate Student Average".Pastel(Color.Gold));
+            Console.WriteLine("4. Display All Students".Pastel(Color.MediumPurple));
+            Console.WriteLine("5. Exit".Pastel(Color.Red));
             Console.WriteLine("========================================");
         }
 

@@ -12,4 +12,6 @@ C:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\refint\Students.dl
 C:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\Students.pdb
 C:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\Students.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\ref\Students.dll
-C:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\Students.sourcelink.json
+c:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\Students.csproj.AssemblyReference.cache
+c:\Users\HP\OneDrive\Desktop\STGRD\Students\bin\Debug\net10.0\Pastel.dll
+c:\Users\HP\OneDrive\Desktop\STGRD\Students\obj\Debug\net10.0\Students.csproj.Up2Date
