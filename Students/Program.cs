@@ -124,7 +124,7 @@ namespace StudentGradeManagement
             }
 
             Console.Write("Enter student ID: ");
-            string studentID = Console.ReadLine();
+            string studentID = Console.ReadLine() ?? "";
 
             Student student = FindStudent(studentID);
 
@@ -136,7 +136,7 @@ namespace StudentGradeManagement
             }
 
             Console.Write("Enter subject name: ");
-            string subject = Console.ReadLine();
+            string subject = Console.ReadLine() ?? "";
 
             Console.Write("Enter grade (0-100): ");
             string gradeInput = Console.ReadLine();
