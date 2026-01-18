@@ -22,4 +22,4 @@ Users interact with a simple numbered menu where they can add students, assign g
 This project demonstrates fundamental programming skills needed for real-world application development.
 
 Top IDE's ---> Kiro, & Vs Code, i use These 2 only  
-No Cursor at all
+No Cursor at all..
