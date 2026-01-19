@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace StudentGradeManagement 
 {
-    // Student class to store student information
+    // Student class to store student information..
     class Student
     {
         public string Name { get; set; }
