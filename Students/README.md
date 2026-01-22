@@ -15,7 +15,7 @@ If-else conditions for data validation
 While loops to keep the program running
 For loops to iterate through student lists
 Custom methods like CalculateAverage() to perform calculations
-Data structures (Lists and Dictionaries) to organize information efficiently
+Data structures (Lists and Dictionaries) to organize information efficiently.
 
 User Experience:
 Users interact with a simple numbered menu where they can add students, assign grades, calculate averages, view all records, or exit the program. The system provides clear feedback with success messages (✅) and error alerts (❌) to guide users through each operation.
