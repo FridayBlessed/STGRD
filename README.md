@@ -9,7 +9,7 @@ Automatically calculates average grades for any student
 Displays comprehensive records showing all students, their subjects, grades, and averages
 Validates all user inputs to prevent errors (checks for duplicate IDs, ensures grades are 0-100, handles empty entries)
 
-Technical Implementation:
+Technical Implementation:-
 The program uses object-oriented programming with a Student class to store data. It demonstrates key programming concepts including:
 
 Switch statements for menu navigation
