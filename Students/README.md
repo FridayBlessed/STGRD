@@ -1,7 +1,7 @@
 This is a C# console application that allows users to manage student academic records through an interactive menu system.
 What it does:
 
-Adds students with unique names and IDs to the system
+Adds students with unique names and IDs to the system.
 Records grades for multiple subjects per student
 Automatically calculates average grades for any student
 Displays comprehensive records showing all students, their subjects, grades, and averages
