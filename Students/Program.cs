@@ -32,7 +32,7 @@ namespace StudentGradeManagement
             bool running = true;
  
             Console.WriteLine("========================================");
-            Console.WriteLine("  STUDENT GRADE MANAGEMENT SYSTEM".Pastel(Color.OrangeRed));
+            Console.WriteLine("  STUDENT GRADE MANAGEMENT SYSTEM".Pastel(Color.MediumPurple));
             Console.WriteLine("========================================\n");
 
             // Main program loop - REQUIRED LOOP
