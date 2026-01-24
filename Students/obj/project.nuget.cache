@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QW6erQ2LtWo=",
+  "dgSpecHash": "R6BicLwCOHI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\STGRD\\Students\\Students.csproj",
+  "projectFilePath": "/Users/blessedfriday/Desktop/STGRD/Students/Students.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\pastel\\7.0.1\\pastel.7.0.1.nupkg.sha512"
+    "/Users/blessedfriday/.nuget/packages/pastel/7.0.1/pastel.7.0.1.nupkg.sha512"
   ],
   "logs": []
 }
