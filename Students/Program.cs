@@ -58,7 +58,7 @@ namespace StudentGradeManagement
                         DisplayAllStudents();
                         break;
                     case "5":
-                        Console.WriteLine("\nThank you for using the Student Grade Management System!");
+                        Console.WriteLine("\nThank you for using the Student Grade Management System!.");
                         running = false;
                         break;
                     default:
