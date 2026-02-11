@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/blessedfriday/Desktop/STGRD/Students/Students.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\STGRD\\Students\\Students.csproj": {}
   },
   "projects": {
-    "/Users/blessedfriday/Desktop/STGRD/Students/Students.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\STGRD\\Students\\Students.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/blessedfriday/Desktop/STGRD/Students/Students.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\STGRD\\Students\\Students.csproj",
         "projectName": "Students",
-        "projectPath": "/Users/blessedfriday/Desktop/STGRD/Students/Students.csproj",
-        "packagesPath": "/Users/blessedfriday/.nuget/packages/",
-        "outputPath": "/Users/blessedfriday/Desktop/STGRD/Students/obj/",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\STGRD\\Students\\Students.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\STGRD\\Students\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/blessedfriday/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
