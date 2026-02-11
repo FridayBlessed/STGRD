@@ -29,17 +29,17 @@ Move to directory `cd Students`
 Run code with `dotnet run`
 
 should display this output 👇👇
-========================================
+----------------------------------------
    STUDENT GRADE MANAGEMENT SYSTEM
-========================================
+----------------------------------------
 
-========================================
+----------------------------------------
          MENU OPTIONS:
-========================================
+---------------------------------------
 1. Add New Student
 2. Add Grade to Student
 3. Calculate Student Average
 4. Display All Students
 5. Exit
-===================================
-Enter your choice:
+--------------------------------------
+Enter your choice: |
