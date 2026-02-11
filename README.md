@@ -32,8 +32,8 @@ should display this output 👇👇
 ---------------------------------------
    STUDENT GRADE MANAGEMENT SYSTEM
 ---------------------------------------
-         MENU OPTIONS:
----------------------------------------
+ MENU OPTIONS:
+--------------------------------------
 1. Add New Student
 2. Add Grade to Student
 3. Calculate Student Average
