@@ -24,4 +24,21 @@ User Experience:
 Users interact with a simple numbered menu where they can add students, assign grades, calculate averages, view all records, or exit the program. The system provides clear feedback with success messages (✅) and error alerts (❌) to guide users through each operation.
 This project demonstrates fundamental programming skills needed for real-world application development...
 
+Move to directory `cd Students`
+
 Run code with `dotnet run`
+should display this output 👇👇
+========================================
+  STUDENT GRADE MANAGEMENT SYSTEM
+========================================
+
+========================================
+MENU OPTIONS:
+========================================
+1. Add New Student
+2. Add Grade to Student
+3. Calculate Student Average
+4. Display All Students
+5. Exit
+========================================
+Enter your choice:
