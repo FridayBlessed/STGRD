@@ -1,3 +1,5 @@
+
+## Student Grade Mnagement System.
 This is a C# console application that allows users to manage student academic records through an interactive menu system.
 What it does:
 
