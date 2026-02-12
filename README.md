@@ -24,9 +24,9 @@ User Experience:
 Users interact with a simple numbered menu where they can add students, assign grades, calculate averages, view all records, or exit the program. The system provides clear feedback with success messages (✅) and error alerts (❌) to guide users through each operation.
 This project demonstrates fundamental programming skills needed for real-world application development...
 
-Move to directory `cd Students`
+Move to directory the ```cd Students```
 
-Run code with `dotnet run`
+Run code with ```dotnet run```
 
 should display this output 👇👇
 
